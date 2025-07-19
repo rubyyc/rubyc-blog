@@ -1,0 +1,1 @@
+import{_ as t,c as i,o as s,ag as e}from"./chunks/framework.Bw-5EFTY.js";const h=JSON.parse('{"title":"真理","description":"","frontmatter":{},"headers":[],"relativePath":"真理.md","filePath":"真理.md"}'),l={name:"真理.md"};function o(c,a,d,n,p,r){return s(),i("div",null,a[0]||(a[0]=[e("",18)]))}const u=t(l,[["render",o]]);export{h as __pageData,u as default};
