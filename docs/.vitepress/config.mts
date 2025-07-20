@@ -16,6 +16,7 @@ export default defineConfig({
       { text: "易经", link: "/易经" },
       { text: "真理", link: "/真理" },
       { text: "网站样式", link: "/网站样式" },
+      { text: "我的导航", link: "/nav" },
       { text: "关于", link: "/关于" },
     ],
 

@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@mdit-vue/shared": "^2.1.4",
     "busuanzi.pure.js": "^1.0.3",
     "vitepress": "^1.6.3"
   },
