@@ -2,6 +2,17 @@ import type { NavData } from "./types"
 
 export const NAV_DATA: NavData[] = [
   {
+    title: "文档汇总",
+    items: [
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "XS75T 说明书",
+
+        link: "/pdf/说明书/XS75T.pdf",
+      },
+    ],
+  },
+  {
     title: "常用工具",
     items: [
       {
