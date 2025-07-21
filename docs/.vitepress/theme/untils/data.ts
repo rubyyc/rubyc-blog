@@ -10,11 +10,61 @@ export const NAV_DATA: NavData[] = [
 
         link: "/pdf/说明书/XS75T.pdf",
       },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "倪海厦-天纪-人间道",
+
+        link: "/pdf/倪海厦/天纪-人间道.pdf",
+      },
+    ],
+  },
+  {
+    title: "Win软件",
+    items: [
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "PowerToys",
+        desc: "Windows 系统工具可以改快捷键",
+        link: "https://github.com/microsoft/PowerToys",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "flux",
+        desc: "调节屏幕亮度",
+        link: "https://justgetflux.com/",
+      },  
+      
+    ],
+  },
+  {
+    title: "知识海洋",
+    items: [
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "曾仕强-易经",
+        link: "https://www.bilibili.com/video/BV1oy4y1v7PY/?spm_id_from=333.337.search-card.all.click&vd_source=1fbeb8377f7d0eb4ebd4bff96f6d9ee6",
+      },
+    ],
+  },
+  {
+    title: "谷歌浏览器插件",
+    items: [
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "global-speed",
+        desc: "全局自定义加减速插件",
+        link: "https://chromewebstore.google.com/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?hl=en",
+      },
     ],
   },
   {
     title: "常用工具",
     items: [
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "在线测试键盘按键",
+        link: "https://www.zfrontier.com/lab/keyboardTester",
+      },
       {
         icon: "https://caniuse.com/img/favicon-128.png",
         title: "Can I use",
