@@ -19,6 +19,7 @@ export default defineConfig({
       { text: "网站样式", link: "/网站样式" },
       { text: "我的导航", link: "/nav" },
       { text: "快捷键", link: "/快捷键" },
+      { text: "解决办法", link: "/解决办法" },
       { text: "命令", link: "/命令" },
       { text: "工具", link: "/工具" },
       { text: "关于", link: "/关于" },
