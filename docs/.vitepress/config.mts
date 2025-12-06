@@ -12,10 +12,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "主页", link: "/" },
-      { text: "采购", link: "/采购" },
-      { text: "易经", link: "/易经" },
+      { text: "博客", link: "/博客" },
       { text: "真理", link: "/真理" },
-      { text: "语录", link: "/语录" },
       { text: "网站样式", link: "/网站样式" },
       { text: "我的导航", link: "/nav" },
       { text: "快捷键", link: "/快捷键" },

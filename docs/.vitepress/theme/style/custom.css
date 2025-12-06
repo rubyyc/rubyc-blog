@@ -1,0 +1,15 @@
+/* 防止滚动条显示/隐藏导致的页面晃动 */
+html {
+  overflow-y: scroll;
+}
+
+/* 确保页面宽度一致，防止侧边栏相关的晃动 */
+:root {
+  --vp-layout-max-width: 1152px;
+}
+
+/* 统一非导航页面的布局结构，避免影响自定义导航页面 */
+body:not(.m-nav-layout) .vp-doc {
+  max-width: var(--vp-layout-max-width) !important;
+  margin: 0 auto !important;
+}
