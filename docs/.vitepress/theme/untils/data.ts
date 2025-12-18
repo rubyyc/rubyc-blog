@@ -2,8 +2,102 @@ import type { NavData } from "./types"
 
 export const NAV_DATA: NavData[] = [
   {
+    title: "阿里国际站",
+    items: [
+      {
+        icon: "https://toolb.cn/favicon/www.alibaba.com",
+        title: "商品管理",
+
+        link: "https://i.alibaba.com/prod/product_manage#/product/all",
+      },
+      {
+        icon: "https://toolb.cn/favicon/www.alibaba.com",
+        title: "商品运营工作台",
+
+        link: "https://hz-productposting.alibaba.com/product_operate/product_growth.htm",
+      },
+      {
+        icon: "https://toolb.cn/favicon/www.alibaba.com",
+        title: "询盘",
+
+        link: "https://message.alibaba.com/message/default.htm",
+      },
+      {
+        icon: "https://toolb.cn/favicon/www.alibaba.com",
+        title: "搜索",
+
+        link: "https://www.alibaba.com/trade/search",
+      },
+      {
+        icon: "https://toolb.cn/favicon/www.alibaba.com",
+        title: "商品广告关键词推荐",
+
+        link: "https://data.alibaba.com/adviser/keyword",
+      },
+    ],
+  },
+  {
+    title: "工具推荐",
+    items: [
+      {
+        icon: "https://www.pdfgear.com/img/icon.png",
+        title: "PDF转Word工具-PDFgear",
+
+        link: "https://www.pdfgear.com",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "商品运营工作台",
+
+        link: "https://hz-productposting.alibaba.com/product_operate/product_growth.htm",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "询盘",
+
+        link: "https://message.alibaba.com/message/default.htm",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "搜索",
+
+        link: "https://www.alibaba.com/trade/search",
+      },
+    ],
+  },
+  {
     title: "文档汇总",
     items: [
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "Outdoor and kids funiture",
+
+        link: "https://xdpc.com/libs/PDF/web/viewer.html?file=Outdoor%20and%20Kids%20funiture.pdf",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "Dustbin catalogue",
+
+        link: "https://xdpc.com/libs/PDF/web/viewer.html?file=Dustbin%20catalogue.pdf",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "XS75T 说明书",
+
+        link: "/pdf/说明书/XS75T.pdf",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "XS75T 说明书",
+
+        link: "/pdf/说明书/XS75T.pdf",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "XS75T 说明书",
+
+        link: "/pdf/说明书/XS75T.pdf",
+      },
       {
         icon: "https://caniuse.com/img/favicon-128.png",
         title: "XS75T 说明书",
@@ -15,6 +109,12 @@ export const NAV_DATA: NavData[] = [
         title: "倪海厦-天纪-人间道",
 
         link: "/pdf/倪海厦/天纪-人间道.pdf",
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "HC-油管-AIGC讲义",
+
+        link: "https://gumroad.com/checkout?_gl=1*nylv8y*_ga*MTk4MTkwMDg1My4xNzY1OTU2MTQw*_ga_6LJN6D94N6*czE3NjU5NTYxMzkkbzEkZzAkdDE3NjU5NTYxMzkkajYwJGwwJGgw",
       },
     ],
   },
@@ -32,8 +132,7 @@ export const NAV_DATA: NavData[] = [
         title: "flux",
         desc: "调节屏幕亮度",
         link: "https://justgetflux.com/",
-      },  
-      
+      },
     ],
   },
   {
@@ -60,6 +159,11 @@ export const NAV_DATA: NavData[] = [
   {
     title: "常用工具",
     items: [
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "阿里场景图生成",
+        link: "https://www.alphashop.cn/studio?spm=a263az.agent-home-page.send-input&sessionId=9abe50fe-3e32-4199-8d29-af4f69f1cc20",
+      },
       {
         icon: "https://caniuse.com/img/favicon-128.png",
         title: "在线测试键盘按键",
