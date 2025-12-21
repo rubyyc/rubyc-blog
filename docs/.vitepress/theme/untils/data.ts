@@ -63,6 +63,12 @@ export const NAV_DATA: NavData[] = [
 
         link: "https://www.alibaba.com/trade/search",
       },
+      {
+        icon: "https://www.feishu.cn/favicon.ico",
+        title: "飞书多维表格-个人专业版",
+
+        link: "https://ccnw04bofjlz.feishu.cn/base/UYQKbSuIvaocZaskcL8coqQgnZb?table=tbl1ud8Nl0ke60yK&view=vewAqCEMgA",
+      },
     ],
   },
   {
@@ -163,6 +169,12 @@ export const NAV_DATA: NavData[] = [
         icon: "https://caniuse.com/img/favicon-128.png",
         title: "阿里场景图生成",
         link: "https://www.alphashop.cn/studio?spm=a263az.agent-home-page.send-input&sessionId=9abe50fe-3e32-4199-8d29-af4f69f1cc20",
+      },
+      {
+        // 填写YouTube在线图标
+        icon: "https://www.youtube.com/favicon.ico",
+        title: "油管视频下载",
+        link: "https://youtube.iiilab.com/",
       },
       {
         icon: "https://caniuse.com/img/favicon-128.png",
